@@ -121,10 +121,3 @@ plot_dynamic_graph(100,0, 1000, total_steps=1000, interval_minutes=1)
 
 
 
-echo "# Simulated_Fibo" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/X-N-X-I-X-R/Simulated_Fibo.git
-git push -u origin main
